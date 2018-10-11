@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mini-app1</string>
+    <string name="label_file_size">File size in Mib</string>
+    <string name="placeholder_file_size">ex. 10</string>
+    <string name="label_internet_speed">Please enter your internet speed</string>
+    <string name="placeholder_internet_speed">ex. 10</string>
+    <string name="placeholder_result">0.00 Second</string>
+    <string name="seconds">Seconds</string>
+</resources>
